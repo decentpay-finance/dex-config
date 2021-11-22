@@ -1,0 +1,9 @@
+[
+{name: 'QUAI on BSC',
+contract: '0x3dc2d7434bdbb4ca1a8a6bcc8a8075aeae2d2179'
+symbol: 'QUAI',
+pathsTo:{
+  BUSD:{
+  
+}
+]
